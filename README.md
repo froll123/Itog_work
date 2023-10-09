@@ -2,37 +2,36 @@
 1. Используя команду cat в терминале операционной системы Linux, создать два файла Домашние животные (заполнив файл собаками, кошками,
 хомяками) и Вьючные животными заполнив файл (Лошадьми, верблюдами и ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
-![1]([scrin/1.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/1.PNG))
-
+![1](https://github.com/froll123/Itog_work/blob/main/scrin/1.PNG)
 2. Создать директорию, переместить файл туда.
-![Alt text]([scrin/2.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/2.PNG))
+![2](https://github.com/froll123/Itog_work/blob/main/scrin/2.PNG)
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
-![Alt text]([scrin/3.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/3.PNG))
+![3](https://github.com/froll123/Itog_work/blob/main/scrin/3.PNG)
 4. Установить и удалить deb-пакет с помощью dpkg.
-![Alt text]([scrin/4.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/4.PNG))
+![4](https://github.com/froll123/Itog_work/blob/main/scrin/4.PNG)
 5. Выложить историю команд в терминале ubuntu
-![Alt text]([scrin/5.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/5.PNG))
+![5](https://github.com/froll123/Itog_work/blob/main/scrin/5.PNG)
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: (Лошади, верблюды и ослы).
-![Alt text]([<diogramma/база данных.PNG>](https://github.com/froll123/Itog_work/blob/main/diogramma/база%20данных.PNG))
+![6](https://github.com/froll123/Itog_work/blob/main/diogramma/база%20данных.PNG)
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
-![Alt text]([scrin/7.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/7.PNG))
+![7](https://github.com/froll123/Itog_work/blob/main/scrin/7.PNG)
 8. Создать таблицы с иерархией из диаграммы в БД
-![Alt text]([scrin/8.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/8.PNG))
+![8](https://github.com/froll123/Itog_work/blob/main/scrin/8.PNG)
 9. Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения
-![Alt text]([scrin/9.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/9.PNG))
-![Alt text]([scrin/10.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/10.PNG))
-![Alt text]([scrin/11.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/11.PNG))
-![Alt text]([scrin/12.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/12.PNG))
+![9](https://github.com/froll123/Itog_work/blob/main/scrin/9.PNG)
+![10](https://github.com/froll123/Itog_work/blob/main/scrin/10.PNG)
+![11](https://github.com/froll123/Itog_work/blob/main/scrin/11.PNG)
+![12](https://github.com/froll123/Itog_work/blob/main/scrin/12.PNG)
 10. Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
-![Alt text]([scrin/13.1.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/13.1.PNG))
+![13.1](https://github.com/froll123/Itog_work/blob/main/scrin/13.1.PNG)
 11. Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью
 до месяца подсчитать возраст животных в новой таблице
-![Alt text]([scrin/13.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/13.PNG))
+![13](https://github.com/froll123/Itog_work/blob/main/scrin/13.PNG)
 12. Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
-![Alt text]([scrin/14.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/13.PNG))
+![14](https://github.com/froll123/Itog_work/blob/main/scrin/14.PNG)
 13. Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
-![Alt text]([scrin/15.PNG](https://github.com/froll123/Itog_work/blob/main/scrin/15.PNG))
+![15](https://github.com/froll123/Itog_work/blob/main/scrin/15.PNG)
 14. Написать программу, имитирующую работу реестра домашних животных.
 В программе должен быть реализован следующий функционал:
 14.1 Завести новое животное
